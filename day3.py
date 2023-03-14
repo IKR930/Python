@@ -47,3 +47,6 @@ print('weekly earnings are:', weekly_earnings)
 
 for i in range(1, 6):
     print(i, i ** 0, i ** 1, i ** 2, i ** 3)
+
+
+#test
